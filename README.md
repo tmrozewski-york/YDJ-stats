@@ -20,7 +20,7 @@ The API endpoints and tokens are stored in a CSV file. One row = one journal wit
 - `issues_endpoint`: endpoint for the [Issues](https://docs.pkp.sfu.ca/dev/api/ojs/3.3#tag/Issues/paths/~1issues/get) call
 - `abstractViews_endpoint`: endpoint for the [Abstract views](https://docs.pkp.sfu.ca/dev/api/ojs/3.3#tag/Stats-Publications/paths/~1stats~1publications~1abstract/get) call
 - `galleyViews_endpoint`: endpoint for the [Galley views](https://docs.pkp.sfu.ca/dev/api/ojs/3.3#tag/Stats-Publications/paths/~1stats~1publications~1galley/get) call
-- 'token': the API token for each journal
+- `token`: the API token for each journal
 
 ## Data processing
 
